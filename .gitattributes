@@ -1,0 +1,4 @@
+# 清单与签名的字节内容就是被签名的东西：Git 若按 core.autocrlf 把 LF 改写成
+# CRLF，客户端验签会立刻失败，所以两者都必须原样检出。
+*.json -text
+*.sig -text

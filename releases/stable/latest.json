@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "kind": "app",
+  "channel": "stable",
+  "version": "0.1.0",
+  "tag": "v0.1.0",
+  "file": "HookCast-setup-0.1.0.exe",
+  "url": "https://github.com/kukukikibear/HookCast-app/releases/download/v0.1.0/HookCast-setup-0.1.0.exe",
+  "size": 154478777,
+  "sha256": "2a1d9b179db15fc5da464ddeb1c21c597fe71940f6c832947ef92fc25043836c",
+  "released_at": "2026-10-09T10:17:16+08:00"
+}
