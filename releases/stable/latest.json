@@ -2,11 +2,11 @@
   "schema_version": 1,
   "kind": "app",
   "channel": "stable",
-  "version": "0.1.0",
-  "tag": "v0.1.0",
-  "file": "HookCast-setup-0.1.0.exe",
-  "url": "https://github.com/kukukikibear/HookCast-app/releases/download/v0.1.0/HookCast-setup-0.1.0.exe",
-  "size": 154442852,
-  "sha256": "39662c3d40593ebc0394a06d135a3772ae8dffd3abfa74d5130146ae2d26fc93",
-  "released_at": "2026-10-09T16:35:39+08:00"
+  "version": "0.1.2",
+  "tag": "v0.1.2",
+  "file": "HookCast-setup-0.1.2.exe",
+  "url": "https://api.github.com/repos/kukukikibear/HookCast-app/releases/assets/627418781",
+  "size": 154442940,
+  "sha256": "18a589310df02fc9f9aaca194fa95c33edd87d86af9cf75bd596cff5bc524508",
+  "released_at": "2026-10-10T16:23:11+08:00"
 }
